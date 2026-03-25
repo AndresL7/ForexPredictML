@@ -1,0 +1,12 @@
+numpy
+pandas
+ta
+yfinance
+scipy
+scikit-learn
+xgboost
+matplotlib
+plotly
+tensorflow
+jupyter
+nbformat
