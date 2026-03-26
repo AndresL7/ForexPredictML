@@ -65,10 +65,8 @@ Nota: estos valores pueden variar por periodo de datos y cambios del notebook.
 
 ## Visualizaciones
 
-Puedes guardar tus graficas del notebook en docs/figures y mostrarlas aqui. Ejemplo:
-
 ```markdown
-![Ganancia acumulada semanal](docs/figures/weekly_cumulative_return.png)
+![Ganancia acumulada semanal](docs/figures/ganancia_acumulada_xgboost_eurusd_diaria.png)
 ```
 
 ## Roadmap
