@@ -65,9 +65,7 @@ Nota: estos valores pueden variar por periodo de datos y cambios del notebook.
 
 ## Visualizaciones
 
-```markdown
 ![Ganancia acumulada diaria](docs/figures/ganancia_acumulada_xgboost_eurusd_diaria.png)
-```
 
 ## Roadmap
 
