@@ -5,7 +5,7 @@
 ![XGBoost](https://img.shields.io/badge/Model-XGBoost-EC6B23)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
-Proyecto de prediccion direccional para mercados financieros (EURUSD, COPUSD y NASDAQ) con enfoque en series temporales, evitando fuga de informacion durante el tuning y manteniendo consistencia entre entrenamiento e inferencia.
+Proyecto de prediccion direccional para mercados financieros (EURUSD, COPUSD y NASDAQ) usando Python, Jupyter Notebook, yfinance, ta, scikit-learn y XGBoost, con el objetivo de construir y evaluar modelos de clasificacion para horizontes de 1 dia, 1 semana y 1 mes.
 
 ## Objetivo
 
@@ -77,19 +77,3 @@ Puedes guardar tus graficas del notebook en docs/figures y mostrarlas aqui. Ejem
 - Exportar metricas a CSV/JSON en una carpeta de resultados.
 - Agregar pruebas unitarias para feature engineering.
 - Crear un CLI para elegir simbolo y horizonte.
-
-## Publicar En GitHub
-
-Desde la carpeta del proyecto:
-
-```bash
-git remote add origin TU_URL_DEL_REPO
-git push -u origin main
-```
-
-Si aun no tienes commit local, usa primero:
-
-```bash
-git add .
-git commit -m "Project documentation and structure update"
-```
